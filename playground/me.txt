@@ -1,3 +1,0 @@
-Name: Ansh Mishra
-Skills: HTML, CSS, JS, React.js
-Email: ansh2003mishra@gmail.com
